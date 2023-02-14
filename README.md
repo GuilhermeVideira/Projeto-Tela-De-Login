@@ -3,7 +3,7 @@
 
 A proposta da atividade era de desenvolver uma tela de login para um usúario comum.  
 
-No meu desenvolvimento da atividade, solicitei dados como nome, sobrenome, email e senha para a tela de login. No desenvolvimento da programação utilizei html para o esqueleto da página e css para estilização. 
+No meu desenvolvimento da atividade, solicitei dados como email e senha para a tela de login. No desenvolvimento da programação utilizei html para o esqueleto da página e css para estilização. 
 
 #
 
